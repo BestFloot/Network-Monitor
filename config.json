@@ -1,0 +1,7 @@
+{
+    "ddos_packet_size_threshold": 1000,
+    "dos_packet_size_threshold": 500,
+    "small_attack_packet_size_threshold": 100,
+    "medium_attack_packet_size_threshold": 500,
+    "large_attack_packet_size_threshold": 1000
+}
